@@ -8,5 +8,3 @@ The main aim was to design some kind of mail-compiler with own lexer, parser, se
 ```
 python main.py <path to analyzed mail>
 ```
-
-## Launch test
